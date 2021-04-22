@@ -1,4 +1,4 @@
-package DiscreteMaths;
+package laxmiCSC281Assignment1;
 
 import java.util.Arrays;
 import java.util.Scanner;
